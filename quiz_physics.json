@@ -1,0 +1,65 @@
+{
+    "questions": [
+      {
+        "question": "What is velocity?",
+        "options": ["Speed", "Displacement", "Rate of change of displacement", "None"],
+        "answer": "Rate of change of displacement",
+        "explanation": "Velocity is the rate of change of displacement with time."
+      },
+      {
+        "question": "What is the SI unit of force?",
+        "options": ["Joule", "Watt", "Newton", "Pascal"],
+        "answer": "Newton",
+        "explanation": "The SI unit of force is Newton (N)."
+      },
+      {
+        "question": "What does Ohm's law state?",
+        "options": ["V = IR", "V = I^2R", "I = V/R", "V = R^2I"],
+        "answer": "V = IR",
+        "explanation": "Ohm's law states that Voltage (V) is equal to the current (I) multiplied by the resistance (R)."
+      },
+      {
+        "question": "What is the formula for gravitational potential energy?",
+        "options": ["mgh", "1/2mv^2", "mv", "mvr"],
+        "answer": "mgh",
+        "explanation": "The formula for gravitational potential energy is mgh, where m is mass, g is gravitational acceleration, and h is height."
+      },
+      {
+        "question": "What is the unit of power?",
+        "options": ["Joule", "Watt", "Newton", "Ampere"],
+        "answer": "Watt",
+        "explanation": "The unit of power is Watt (W), which is equal to one joule per second."
+      },
+      {
+        "question": "What is the principle of conservation of energy?",
+        "options": ["Energy can neither be created nor destroyed", "Energy increases in an isolated system", "Energy is converted to mass", "Energy is directly proportional to mass"],
+        "answer": "Energy can neither be created nor destroyed",
+        "explanation": "The principle of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another."
+      },
+      {
+        "question": "What is the formula for kinetic energy?",
+        "options": ["1/2mv^2", "mv", "mgh", "1/2mgh"],
+        "answer": "1/2mv^2",
+        "explanation": "The formula for kinetic energy is 1/2mv^2, where m is mass and v is velocity."
+      },
+      {
+        "question": "What is the law of reflection?",
+        "options": ["Angle of incidence equals angle of reflection", "Angle of incidence equals angle of refraction", "Angle of reflection is 90 degrees", "There is no reflection in a vacuum"],
+        "answer": "Angle of incidence equals angle of reflection",
+        "explanation": "The law of reflection states that the angle of incidence is equal to the angle of reflection."
+      },
+      {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["3 × 10^8 m/s", "2 × 10^8 m/s", "1.5 × 10^8 m/s", "5 × 10^8 m/s"],
+        "answer": "3 × 10^8 m/s",
+        "explanation": "The speed of light in a vacuum is approximately 3 × 10^8 meters per second."
+      },
+      {
+        "question": "What is the phenomenon of refraction?",
+        "options": ["Bending of light when passing through different mediums", "Reflection of light on a surface", "Absorption of light by an object", "Transmission of light through space"],
+        "answer": "Bending of light when passing through different mediums",
+        "explanation": "Refraction is the bending of light when it passes from one medium to another with a different density."
+      }
+    ]
+  }
+  

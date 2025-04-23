@@ -1,0 +1,65 @@
+{
+    "questions": [
+      {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+        "answer": "Mitochondria",
+        "explanation": "Mitochondria are known as the powerhouse of the cell because they produce energy in the form of ATP."
+      },
+      {
+        "question": "What is the process of cell division called?",
+        "options": ["Mitosis", "Meiosis", "Cytokinesis", "Apoptosis"],
+        "answer": "Mitosis",
+        "explanation": "Mitosis is the process by which a single cell divides into two identical daughter cells, ensuring growth and repair."
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "options": ["Atom", "Molecule", "Cell", "Organ"],
+        "answer": "Cell",
+        "explanation": "The cell is considered the basic unit of life because all living organisms are composed of cells."
+      },
+      {
+        "question": "What does DNA stand for?",
+        "options": ["Deoxyribonucleic Acid", "Deoxyribonucleic Alloy", "Dimeric Nucleic Acid", "Dimethyl Nucleic Acid"],
+        "answer": "Deoxyribonucleic Acid",
+        "explanation": "DNA stands for Deoxyribonucleic Acid, which contains the genetic instructions for the development and functioning of living organisms."
+      },
+      {
+        "question": "What is the main function of red blood cells?",
+        "options": ["To fight infections", "To transport oxygen", "To produce insulin", "To aid in digestion"],
+        "answer": "To transport oxygen",
+        "explanation": "The primary function of red blood cells is to transport oxygen from the lungs to the rest of the body."
+      },
+      {
+        "question": "Which of the following is an example of a prokaryotic cell?",
+        "options": ["Human cell", "Bacterial cell", "Plant cell", "Animal cell"],
+        "answer": "Bacterial cell",
+        "explanation": "Bacterial cells are prokaryotic, meaning they do not have a nucleus or membrane-bound organelles."
+      },
+      {
+        "question": "What is the process of photosynthesis?",
+        "options": ["Converting oxygen to carbon dioxide", "Converting water to glucose", "Converting sunlight into energy", "Converting glucose to energy"],
+        "answer": "Converting sunlight into energy",
+        "explanation": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose and oxygen."
+      },
+      {
+        "question": "Which organ is responsible for pumping blood in the human body?",
+        "options": ["Lungs", "Brain", "Heart", "Liver"],
+        "answer": "Heart",
+        "explanation": "The heart is responsible for pumping blood throughout the body, supplying oxygen and nutrients to tissues."
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Brain", "Liver", "Skin", "Heart"],
+        "answer": "Skin",
+        "explanation": "The skin is the largest organ in the human body and serves as a protective barrier, regulates temperature, and allows for sensory perception."
+      },
+      {
+        "question": "What is the role of chlorophyll in plants?",
+        "options": ["Absorbs water", "Absorbs sunlight", "Transports nutrients", "Produces oxygen"],
+        "answer": "Absorbs sunlight",
+        "explanation": "Chlorophyll is the green pigment in plants that absorbs sunlight, allowing for photosynthesis to occur."
+      }
+    ]
+  }
+  

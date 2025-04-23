@@ -1,0 +1,65 @@
+{
+    "questions": [
+      {
+        "question": "What is the atomic number of Carbon?",
+        "options": ["6", "12", "8", "14"],
+        "answer": "6",
+        "explanation": "The atomic number of Carbon is 6, which indicates the number of protons in its nucleus."
+      },
+      {
+        "question": "What is the chemical formula of water?",
+        "options": ["H2O", "H2O2", "CO2", "O2"],
+        "answer": "H2O",
+        "explanation": "Water has the chemical formula H2O, meaning it consists of two hydrogen atoms and one oxygen atom."
+      },
+      {
+        "question": "What is the pH value of pure water?",
+        "options": ["7", "0", "14", "10"],
+        "answer": "7",
+        "explanation": "The pH value of pure water is 7, which is considered neutral."
+      },
+      {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen",
+        "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas."
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": "Au",
+        "explanation": "The chemical symbol for gold is Au, derived from the Latin word 'aurum'."
+      },
+      {
+        "question": "What is an example of a noble gas?",
+        "options": ["Oxygen", "Argon", "Nitrogen", "Hydrogen"],
+        "answer": "Argon",
+        "explanation": "Argon is a noble gas, which is chemically inert and doesn't react easily with other elements."
+      },
+      {
+        "question": "What is the formula of methane?",
+        "options": ["CH4", "C2H6", "CO2", "H2O"],
+        "answer": "CH4",
+        "explanation": "Methane has the chemical formula CH4, consisting of one carbon atom and four hydrogen atoms."
+      },
+      {
+        "question": "What is the process of converting a liquid to gas called?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Fusion"],
+        "answer": "Evaporation",
+        "explanation": "Evaporation is the process where a liquid turns into gas when the molecules at the surface gain enough energy to escape."
+      },
+      {
+        "question": "Which of the following is an acid?",
+        "options": ["Sodium Hydroxide", "Hydrochloric Acid", "Sodium Chloride", "Calcium Carbonate"],
+        "answer": "Hydrochloric Acid",
+        "explanation": "Hydrochloric acid (HCl) is an example of an acid, known for its strong acidic properties."
+      },
+      {
+        "question": "Which element is essential for the formation of proteins?",
+        "options": ["Carbon", "Oxygen", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen",
+        "explanation": "Nitrogen is an essential element in amino acids, which are the building blocks of proteins."
+      }
+    ]
+  }
+  
